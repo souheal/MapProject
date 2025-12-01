@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "userName": "John Doe",
+    "userEmail": "john@example.com",
+    "carId": "1",
+    "carName": "Tesla Model 3",
+    "startDate": "2024-01-15",
+    "endDate": "2024-01-20",
+    "days": 5,
+    "pricePerDay": 89.99,
+    "totalPrice": 449.95,
+    "status": "completed",
+    "bookingDate": "2024-01-10"
+  },
+  {
+    "id": "2",
+    "userId": "2",
+    "userName": "Jane Smith",
+    "userEmail": "jane@example.com",
+    "carId": "4",
+    "carName": "Porsche 911",
+    "startDate": "2024-02-01",
+    "endDate": "2024-02-03",
+    "days": 2,
+    "pricePerDay": 299.99,
+    "totalPrice": 599.98,
+    "status": "active",
+    "bookingDate": "2024-01-25"
+  }
+]

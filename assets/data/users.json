@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "password123",
+    "phone": "+1 234 567 8900",
+    "address": "123 Main Street, New York, NY 10001"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "password456",
+    "phone": "+1 234 567 8901",
+    "address": "456 Oak Avenue, Los Angeles, CA 90001"
+  },
+  {
+    "id": "3",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "phone": "+1 234 567 8902",
+    "address": "789 Admin Boulevard, Chicago, IL 60601"
+  }
+]
